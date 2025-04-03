@@ -35,10 +35,6 @@ Application Python permettant de suivre et d'analyser vos dépenses mensuelles a
 ![Graphique en barres](screenshots/graphique_barres.png)
 *Montant des dépenses par catégorie sous forme de graphique en barres.*
 
-### Rapport PDF
-
-![Rapport PDF](screenshots/rapport_pdf.png)
-*Exemple de rapport PDF généré par l'application.*
 
 ## 🔧 Prérequis
 
